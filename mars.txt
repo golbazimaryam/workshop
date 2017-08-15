@@ -2,4 +2,9 @@ I am the wolf woman!
 haha! I am learning Git!
 venus is a base!
 I'm collaborating with you
+<<<<<<< HEAD
 I am trying to make a conflict!
+=======
+trying to edit -- Cordie
+Hello!-- Jinbiao
+>>>>>>> 33ca347990fbc123e4383076648afe5b98093563
